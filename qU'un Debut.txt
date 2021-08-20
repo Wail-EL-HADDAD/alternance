@@ -1,0 +1,3 @@
+progressbar_label_first
+
+Causes possibles si votre inscription est refusée : trop de demandes, trop d'exigences, doublons, hors cadre, trop politique ou religieux...  L'inscription est validée suite à notre accord et suite à votre paiement.
